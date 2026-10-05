@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained.
+
 # Storyblok Content Delivery API - Code Examples
 
 The Content Delivery API is the easiest way to access your Storyblok content.
